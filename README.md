@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hariNEzuMI928)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hariNEzuMI928&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://raw.githubusercontent.com/hariNEzuMI928/hariNEzuMI928/master/profile-summary-card-output/vue/1-repos-per-language.svg" />
+</a>
 
-[![](https://raw.githubusercontent.com/hariNEzuMI928/hariNEzuMI928/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![](https://komarev.com/ghpvc/?username=hariNEzuMI928&color=blue)
 
