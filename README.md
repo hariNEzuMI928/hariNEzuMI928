@@ -8,8 +8,6 @@
 </a>
 
 
-![](https://komarev.com/ghpvc/?username=hariNEzuMI928&color=blue)
-
 <!--
 **hariNEzuMI928/hariNEzuMI928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
