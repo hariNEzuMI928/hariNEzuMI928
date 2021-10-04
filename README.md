@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hariNEzuMI928&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://raw.githubusercontent.com/hariNEzuMI928/hariNEzuMI928/master/profile-summary-card-output/vue/1-repos-per-language.svg" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariNEzuMI928" />
 </a>
 
 <!--
